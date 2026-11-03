@@ -1,9 +1,6 @@
 # Uncertainty Analysis – GUM and Monte Carlo Simulation
 
-**Course:** ME3112 – Metrology and Instrumentation  
-**Department:** Mechanical Engineering, NIT Calicut
-
-This repository contains Python solutions for the two assignment problems. Each problem is solved using the analytical GUM approach and Monte Carlo simulation with 200,000 trials.
+This repository contains Python solutions for the two assignment problems done as a course project for ME3112 – Metrology and Instrumentation. Each problem is solved using the analytical GUM approach and Monte Carlo simulation with 200,000 trials.
 
 ## Repository contents
 
