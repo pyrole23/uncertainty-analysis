@@ -80,7 +80,7 @@ python uncertainty_analysis.py
 
 The scripts print numerical results and save their histogram PNG files in the current working directory.
 
-## Comparison notes
+## Comparisons
 
 - Each implementation uses 200,000 Monte Carlo trials.
 - The independently written Problem 1 code reports an expanded uncertainty using \(k=2\) for its rounded interval and also calculates a Student-t coverage factor.
