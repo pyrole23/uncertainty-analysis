@@ -34,9 +34,9 @@ Uncertainty sources:
 
 Measurement model:
 
-\[
+$$
 C_{\mathrm{Zn}} = \frac{1000mP}{V}
-\]
+$$
 
 where \(m\) is zinc mass in mg, \(P\) is purity, and \(V\) is final solution volume in mL.
 
