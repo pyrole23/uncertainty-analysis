@@ -89,13 +89,9 @@ The scripts print numerical results and save their histogram PNG files in the cu
 - Small differences between Monte Carlo outputs are expected because the scripts use different random seeds and sampling implementations.
 - The AI-generated program also prints a GUM-validation check against the Monte Carlo interval using its implemented tolerance. This is separate from comparing estimated means and standard uncertainties.
 
-## AI prompt and verification
+## AI Usage
 
-The assignment requires the prompts used to generate the AI program and a record of corrections made after verification.
-
-**Add the exact prompt(s) used to generate `uncertainty_analysis.py` here.** The prompt was not present in the supplied files, so it has not been fabricated.
-
-Document any corrections made to the AI-generated code and how they were checked. If no corrections were required, state that explicitly.
+Claude (Anthropic) Opus 5.5 was used to generate `uncertainty_analysis.py`. The AI generated code and the independently developed code were compared and the differences were documented.
 
 ## References
 
