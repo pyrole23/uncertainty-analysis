@@ -213,11 +213,3 @@ print("95% low =", low_mc)
 print("95% high =", high_mc)
 
 plt.show()
-
-
-
-
-
-
-
-
