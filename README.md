@@ -10,9 +10,9 @@ Five repeated measurements: `8.2, 8.5, 8.1, 8.4, 8.3 µm`.
 
 Measurement model:
 
-\[
+$$
 C = C_{\mathrm{ind}} + \delta_{\mathrm{cal}} + \delta_{\mathrm{res}} + \delta_{\mathrm{align}}
-\]
+$$
 
 Uncertainty sources:
 - Repeatability of the five readings (Type A).
