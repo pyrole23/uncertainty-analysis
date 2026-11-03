@@ -2,21 +2,6 @@
 
 This repository contains Python solutions for the two assignment problems done as a course project for ME3112 – Metrology and Instrumentation. Each problem is solved using the analytical GUM approach and Monte Carlo simulation with 200,000 trials.
 
-## Repository contents
-
-| File | Description |
-|---|---|
-| `uncertainty_problem_1.py` | Independently written code for Problem 1 |
-| `uncertainty_problem_2.py` | Independently written code for Problem 2 |
-| `uncertainty_analysis.py` | AI-generated code for both problems |
-| `problem1_handwritten_histogram.png` | Histogram saved by the independently written Problem 1 program |
-| `problem2_handwritten_histogram.png` | Histogram saved by the independently written Problem 2 program |
-| `problem1_cylindricity_histogram.png` | Histogram saved by the AI-generated program for Problem 1 |
-| `problem2_zinc_histogram.png` | Histogram saved by the AI-generated program for Problem 2 |
-| `requirements.txt` | Python dependencies |
-
-**The four figures below are the actual PNG outputs saved by the supplied programs.** No stock, illustrative, or substitute images are used.
-
 ---
 
 ## Problem 1 – Cylindricity measurement
@@ -37,7 +22,7 @@ Uncertainty sources:
 
 ### Independently written program output
 
-![Problem 1 – independently written program output](problem1_handwritten_histogram.png)
+![Problem 1 – independently written program output](problem1_independent_histogram.png)
 
 ### AI-generated program output
 
@@ -64,7 +49,7 @@ Input distributions:
 
 ### Independently written program output
 
-![Problem 2 – independently written program output](problem2_handwritten_histogram.png)
+![Problem 2 – independently written program output](problem2_independent_histogram.png)
 
 ### AI-generated program output
 
